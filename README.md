@@ -5,4 +5,5 @@
   test for terminal
 
 
-### 13주차 충돌 여기는 sample1 ###
+
+### 13주차 충돌 여기는 sample1과 sample2 였습니다 ###
