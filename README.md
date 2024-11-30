@@ -5,5 +5,5 @@
   test for terminal
 
 
-### sample1에서 수정 중입니다 !!! ###
+### 여기는 sample 2: 13주차 충돌 ###
 
